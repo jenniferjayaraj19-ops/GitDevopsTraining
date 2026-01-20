@@ -6,3 +6,4 @@ my to-do-list
 - going home
 - preparing dinner
 - Jenkins activity
+- scheduled off
